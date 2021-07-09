@@ -19,6 +19,5 @@ deployed as the admin panel of an asset management system.
 - Google map integration
 - File upload  etc.
 
-Also to GITHUB Repo
 
 
